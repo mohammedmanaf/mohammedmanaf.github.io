@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## About Me
+I am **Mohammed Manaf**,an engineering student pursuing my B-Tech  in **Electrical and Electronics  Engineering** at [MESCE Kuttippuram](http://www.mesce.ac.in/) 
 
-You can use the [editor on GitHub](https://github.com/mohammedmanaf/mohammedmanaf.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Fab Lab @ MESCE
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mohammedmanaf/mohammedmanaf.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The Kerala Startup mission is setting up Fab Labs in the state in collaboration with the Massachusetts Institute of Technology Centre of Bits and Atoms. [Dr Neil Gershenfeld](https://en.wikipedia.org/wiki/Neil_Gershenfeld), director of the MIT Centre for Bits and Atoms pioneered the concept of fab lab.Fab Labs (Fabrication Laboratories) are facilities where people with minimal training can design and manufacture any product using advanced manufacturing machines linked to a computer. Fab Lab @ MESCE , Kuttippuram is the only fab lab in the Malabar Zone . A training session was conducted for the students of the college from 2nd August 2017 to 17th August 2107 inorder to make us familirized with the machines and to help us explore about new technologies 
